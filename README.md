@@ -6,16 +6,16 @@ Cette partie présente le fonctionnement du chatbot côté **Telegram**, incluan
 
 ### Aperçu en images
 
-![Telegram 1](images/ChatBot_TELEGRAM/1.PNG)
-![Telegram 2](images/ChatBot_TELEGRAM/2.PNG)
-![Telegram 3](images/ChatBot_TELEGRAM/3.PNG)
-![Telegram 4](images/ChatBot_TELEGRAM/4.PNG)
-![Telegram 5](images/ChatBot_TELEGRAM/5.PNG)
-![Telegram 6](images/ChatBot_TELEGRAM/6.PNG)
+![Telegram 1](images/ChatBot_TELEGRAM/1.png)
+![Telegram 2](images/ChatBot_TELEGRAM/2.png)
+![Telegram 3](images/ChatBot_TELEGRAM/3.png)
+![Telegram 4](images/ChatBot_TELEGRAM/4.png)
+![Telegram 5](images/ChatBot_TELEGRAM/5.png)
+![Telegram 6](images/ChatBot_TELEGRAM/6.png)
 
 ### Autres vues Telegram
 
-![Telegram view 1](images/ChatBot_TELEGRAM/teleg1.PNG)
+![Telegram view 1](images/ChatBot_TELEGRAM/teleg1.png)
 ![Telegram view 2](images/ChatBot_TELEGRAM/teleg2.PNG)
 
 ---
